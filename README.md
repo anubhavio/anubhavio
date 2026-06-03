@@ -45,7 +45,6 @@ Interested in payment systems, ledger accounting, transaction processing, event-
 
 | Organization | Contributions |
 |-------------|--------------|
-| Apache Software Foundation | 2 Merged Pull Requests |
 | Apache Fineract | FINERACT-2515, FINERACT-2375 |
 
 ## 🟢 Contribution Activity
@@ -58,4 +57,3 @@ Interested in payment systems, ledger accounting, transaction processing, event-
 
 ---
 
-⭐ **Apache Fineract Contributor** | Java Backend Development | Fintech Systems | Open Source
