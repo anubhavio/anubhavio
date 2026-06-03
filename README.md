@@ -19,8 +19,7 @@ Interested in payment systems, ledger accounting, transaction processing, event-
 
 - ✅ **FINERACT-2515** — Removed obsolete IDE-generated TODO comments and reduced technical debt
 - ✅ **FINERACT-2375** — Added predefined loan product template JSON files and supporting documentation
-- 🔍 Investigated loan product APIs, configuration enums, integration-test-backed templates, and platform documentation
-- 🚀 Merged contributor to Apache Fineract
+
 
 ## 🌐 Socials
 
