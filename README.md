@@ -1,7 +1,7 @@
-👋Anubhav Singh
+Anubhav Singh
 
 Software Engineer | Java & Fintech Systems Enthusiast
-# 💫 About Me:
+#About Me:
 I’m a software engineer focused on backend systems, fintech architecture, and scalable application design.<br>Currently building PayBandhu — a fintech backend platform focused on AEPS transactions, wallet systems, ledger accounting, onboarding workflows, and transaction processing infrastructure using Java and Spring Boot.<br>
 
 
