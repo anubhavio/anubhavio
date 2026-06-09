@@ -19,6 +19,8 @@ Interested in payment systems, ledger accounting, transaction processing, event-
 
 - ✅ **FINERACT-2515** — Removed obsolete IDE-generated TODO comments and reduced technical debt
 - ✅ **FINERACT-2375** — Added predefined loan product template JSON files and supporting documentation
+- ✅ **FINERACT-405** — Added client and staff mobile number validation
+- 
 
 
 ## 🌐 Socials
@@ -45,7 +47,7 @@ Interested in payment systems, ledger accounting, transaction processing, event-
 
 | Organization | Contributions |
 |-------------|--------------|
-| Apache Fineract | FINERACT-2515, FINERACT-2375 |
+| Apache Fineract | FINERACT-2515, FINERACT-2375, FINERACT-405 |
 
 ## 🟢 Contribution Activity
 
